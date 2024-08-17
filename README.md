@@ -1,3 +1,4 @@
+# AI Chess Agent with Minimax Algorithm
 ## Overview
 The primary goal of this project was to create an AI agent capable of playing chess. The agent uses the minimax algorithm to make strategic decisions, simulating a human-like opponent. 
 The project involved not only programming the movement logic for standard and custom chess pieces but also incorporating advanced AI techniques to enhance the gameplay experience.
